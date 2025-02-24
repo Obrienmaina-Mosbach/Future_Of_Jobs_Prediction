@@ -1,5 +1,7 @@
 # Future of Jobs Project
 
+![job_trend_visualizer](/job-trend-visualizer/Frontend/assets/future.png)
+
 ## Overview
 The **Future of Jobs Project** is a web application that predicts job market trends based on historical job postings data. It allows users to filter and analyze job demand by **Job Title, Location, and Skills** using interactive time-series charts. The project integrates **Streamlit for UI, Flask for the backend, and ARIMA for time-series forecasting.**
 
